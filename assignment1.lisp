@@ -1,5 +1,3 @@
-;Chaitali Patel
-;1404270
 ;cmput 325 LEC B1
 ;assignment 1
 

@@ -1,5 +1,3 @@
-%Chaitali Patel
-%1404270
 %CMPUT 325 B1
 %Assignment 4
 
